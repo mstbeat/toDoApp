@@ -9,6 +9,7 @@ To Do App
 
 ## Requirement（環境）
 - Java
+- SpringBoot
 - Gradle
 - Thymeleaf
 - H2
